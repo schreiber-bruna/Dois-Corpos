@@ -6,7 +6,7 @@ Fundamentação Teórica:
 
   A modelagem do movimento se baseia na solução do problema de Kepler:
 
-    Solução do Problema Reduzido: A trajetória é calculada utilizando a equação polar da órbita para o problema reduzido, conforme os conceitos da seção 7 do capítulo 2 da apostila de referência.
+    Solução do Problema Reduzido: A trajetória é calculada utilizando a equação polar da órbita para o problema reduzido, conforme os conceitos da seção 7 do capítulo 2 da apostila.
 
     Coordenadas das Posições: As posições absolutas e as coordenadas cartesianas exatas de cada corpo são isoladas a partir da relação com o centro de massa do sistema, seguindo os preceitos da seção 4 do capítulo 3 da apostila.
 
