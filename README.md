@@ -24,6 +24,6 @@ O algoritmo foi estruturado utilizando as seguintes constantes e condições ini
 
  ## Funcionamento e Objetivo
 
-    Calcula-se o raio orbital e o converte para coordenadas cartesianas relativas, dividindo em seguida a órbita absoluta de **m_1** e **m_2** com base na proporção de suas massas.
+    Calcula-se o raio orbital e o converte para coordenadas cartesianas relativas, dividindo em seguida a órbita absoluta de m_1 e m_2 com base na proporção de suas massas.
 
     Destacando o centro de massa (posição estática) e traça o movimento orbital frame a frame.
