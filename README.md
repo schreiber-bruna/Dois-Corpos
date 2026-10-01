@@ -1,8 +1,8 @@
-Simulação do Problema de Dois Corpos
+## Simulação do Problema de Dois Corpos
 
 Este projeto implementa uma simulação do movimento de dois corpos atraídos exclusivamente pela ação da gravidade mútua, exportando o resultado das trajetórias orbitais como uma animação em formato GIF.
 
-Fundamentação Teórica:
+## Fundamentação Teórica
 
   A modelagem do movimento se baseia na solução do problema de Kepler:
 
@@ -22,7 +22,7 @@ O algoritmo foi estruturado utilizando as seguintes constantes e condições ini
 * **p = L² / k**
 * **e = 0.8** (Excentricidade da órbita)
 
-  Funcionamento e Objetivo:
+ ## Funcionamento e Objetivo
 
     Calcula-se o raio orbital e o converte para coordenadas cartesianas relativas, dividindo em seguida a órbita absoluta de $m_1$ e $m_2$ com base na proporção de suas massas.
 
