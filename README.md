@@ -10,25 +10,17 @@ Fundamentação Teórica:
 
     Coordenadas das Posições: As posições absolutas e as coordenadas cartesianas exatas de cada corpo são isoladas a partir da relação com o centro de massa do sistema, seguindo os preceitos da seção 4 do capítulo 3 da apostila.
 
-Parâmetros da Simulação:
+## Parâmetros da Simulação
 
-  O algoritmo foi estruturado utilizando as seguintes constantes e condições iniciais:
-
-    $L = 10^5$ (Momento angular)
-
-    $G = 6.7 \times 10^{-11}$ (Constante gravitacional)
-
-    $c = 10^6$ (Constante de escala temporal/angular)
-
-    $m_1 = 5 \times 10^{24}$ (Massa do corpo 1)
-
-    $m_2 = 7 \times 10^{23}$ (Massa do corpo 2)
-
-    $k = G(m_1 + m_2)$
-
-    $p = L^2 / k$
-
-    $e = 0.8$ (Excentricidade da órbita)
+O algoritmo foi estruturado utilizando as seguintes constantes e condições iniciais:
+* **L = 10⁵** (Momento angular)
+* **G = 6.7 × 10⁻¹¹** (Constante gravitacional)
+* **c = 10⁶** (Constante de escala temporal/angular)
+* **m₁ = 5 × 10²⁴** (Massa do corpo 1)
+* **m₂ = 7 × 10²³** (Massa do corpo 2)
+* **k = G(m₁ + m₂)**
+* **p = L² / k**
+* **e = 0.8** (Excentricidade da órbita)
 
   Funcionamento e Objetivo:
 
